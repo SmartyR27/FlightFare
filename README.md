@@ -10,3 +10,9 @@ Data perspective for building model :
 3. Summarizing data
 4. Visualization
 5. Deriving Insights from data
+
+Major Algorithm used:
+1. Extra Tree Regression
+2. Random Forest
+
+
